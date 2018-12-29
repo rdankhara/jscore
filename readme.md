@@ -1,0 +1,1 @@
+#javascript core functionality practice
